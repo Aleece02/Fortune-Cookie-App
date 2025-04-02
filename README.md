@@ -39,7 +39,5 @@ Store fortunes in an external database or API.
 
 Allow users to add custom fortunes.
 
-## License
 
-This project is licensed under the MIT License.
 
